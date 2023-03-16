@@ -1,0 +1,11 @@
+{
+  "name": "webpage-screenshot",
+  "version": "0.0.1",
+  "description": "动态网页截图",
+  "author": "ripper",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2",
+    "puppeteer": "^19.7.3"
+  }
+}
